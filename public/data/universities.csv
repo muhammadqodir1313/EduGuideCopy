@@ -1,0 +1,6 @@
+id,name,nameUz,location,type,established,website,image,rating,studentsCount
+1,Tashkent State Technical University,Toshkent Davlat Texnika Universiteti,Toshkent,davlat,1920,https://tdtu.uz,https://images.pexels.com/photos/207692/pexels-photo-207692.jpeg?auto=compress&cs=tinysrgb&w=800,4.5,15000
+2,Fergana State Technical University,Farg'ona Davlat Texnika Universiteti,Farg'ona,davlat,1967,https://fdtu.uz,https://images.pexels.com/photos/1454360/pexels-photo-1454360.jpeg?auto=compress&cs=tinysrgb&w=800,4.2,8000
+3,National University of Uzbekistan,O'zbekiston Milliy Universiteti,Toshkent,davlat,1918,https://nuu.uz,https://images.pexels.com/photos/1595391/pexels-photo-1595391.jpeg?auto=compress&cs=tinysrgb&w=800,4.7,20000
+4,Tashkent University of Information Technologies,Toshkent Axborot Texnologiyalari Universiteti,Toshkent,davlat,1955,https://tuit.uz,https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=800,4.6,12000
+5,Samarkand State University,Samarqand Davlat Universiteti,Samarqand,davlat,1927,https://samdu.uz,https://images.pexels.com/photos/1438081/pexels-photo-1438081.jpeg?auto=compress&cs=tinysrgb&w=800,4.3,18000

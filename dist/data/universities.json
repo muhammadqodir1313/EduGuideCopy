@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Tashkent State Technical University",
+    "nameUz": "Toshkent Davlat Texnika Universiteti",
+    "location": "Toshkent",
+    "type": "davlat",
+    "established": 1920,
+    "website": "https://tdtu.uz",
+    "image": "https://images.pexels.com/photos/207692/pexels-photo-207692.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "rating": 4.5,
+    "studentsCount": 15000
+  },
+  {
+    "id": "2",
+    "name": "Fergana State Technical University",
+    "nameUz": "Farg'ona Davlat Texnika Universiteti",
+    "location": "Farg'ona",
+    "type": "davlat",
+    "established": 1967,
+    "website": "https://fdtu.uz",
+    "image": "https://images.pexels.com/photos/1454360/pexels-photo-1454360.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "rating": 4.2,
+    "studentsCount": 8000
+  },
+  {
+    "id": "3",
+    "name": "National University of Uzbekistan",
+    "nameUz": "O'zbekiston Milliy Universiteti",
+    "location": "Toshkent",
+    "type": "davlat",
+    "established": 1918,
+    "website": "https://nuu.uz",
+    "image": "https://images.pexels.com/photos/1595391/pexels-photo-1595391.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "rating": 4.7,
+    "studentsCount": 20000
+  },
+  {
+    "id": "4",
+    "name": "Tashkent University of Information Technologies",
+    "nameUz": "Toshkent Axborot Texnologiyalari Universiteti",
+    "location": "Toshkent",
+    "type": "davlat",
+    "established": 1955,
+    "website": "https://tuit.uz",
+    "image": "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "rating": 4.6,
+    "studentsCount": 12000
+  },
+  {
+    "id": "5",
+    "name": "Samarkand State University",
+    "nameUz": "Samarqand Davlat Universiteti",
+    "location": "Samarqand",
+    "type": "davlat",
+    "established": 1927,
+    "website": "https://samdu.uz",
+    "image": "https://images.pexels.com/photos/1438081/pexels-photo-1438081.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "rating": 4.3,
+    "studentsCount": 18000
+  }
+]
